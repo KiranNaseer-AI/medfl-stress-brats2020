@@ -91,7 +91,7 @@ medfl-stress-brats2020/
 └── README.md
 ```
 
-> **Note:** Code is being prepared for release following paper acceptance at MIUA 2026. Watch this repo for updates.
+> **Note:** Code is live (https://www.kaggle.com/kiranmuhammad)
 
 ---
 
@@ -172,7 +172,7 @@ If you use MedFL-Stress or the FORGE-BENCH evaluation protocol, please cite:
   author    = {Naseer, Kiran and Anwer, Naveed Anwer},
   booktitle = {Medical Image Understanding and Analysis (MIUA)},
   year      = {2026},
-  note      = {Under Review}
+  note      = {[(https://arxiv.org/abs/2605.09025)}
 }
 ```
 
